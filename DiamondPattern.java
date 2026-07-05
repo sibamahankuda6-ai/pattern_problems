@@ -25,6 +25,7 @@ public class DiamondPattern {
           }
           System.out.println();
      }
+     
      sc.close();
 
 }
