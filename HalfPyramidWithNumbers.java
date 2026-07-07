@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class HalfPyramidWithNumbers{
      public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
@@ -11,6 +12,8 @@ public class HalfPyramidWithNumbers{
             }
             System.out.println();
         }
+
+        
         sc.close();
 
     }
