@@ -13,8 +13,7 @@ import java.util.Scanner;
                 p++;
 
             }
-
-            
+  
             System.out.println();
         }
 

@@ -6,7 +6,6 @@ public class Number2 {
         System.out.println("Enter row:");
         int n = sc.nextInt();
         
-    
         for(int i=0;i<n;i++){
             int v;
            if(i%2==0){
