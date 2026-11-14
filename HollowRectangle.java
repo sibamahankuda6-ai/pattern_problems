@@ -12,6 +12,7 @@ public class HollowRectangle {
                 if(i==1 || j==1 || i==n || j==m){
                 System.out.print("* ");
               }
+                    
               else{
                 System.out.print("  ");
               }
