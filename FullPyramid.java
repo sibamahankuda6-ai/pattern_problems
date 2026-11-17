@@ -24,5 +24,6 @@ public class FullPyramid {
 
         sc.close();
     }
+    
 }
 

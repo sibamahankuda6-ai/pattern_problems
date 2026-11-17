@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class HollowRectangle {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
@@ -13,6 +12,7 @@ public class HollowRectangle {
                 if(i==1 || j==1 || i==n || j==m){
                 System.out.print("* ");
               }
+                    
               else{
                 System.out.print("  ");
               }

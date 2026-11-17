@@ -11,6 +11,7 @@ public class InvertedHPWN {
             }
             System.out.println();
         }
+        
         sc.close();
 
     } 
